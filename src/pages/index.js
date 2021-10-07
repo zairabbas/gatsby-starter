@@ -41,7 +41,7 @@ export default function Home() {
 						<p className="p-w slideup-a">We are a Responsible safe working contractor with a Focused commitment to building a strong company. A Trusted brand, backed by a history of 13 years, providing Smart, innovative and inspiring solutions, Passionate about every project we deliver. Our annual turnover is more than AED200 million.</p>
 						<p className="p-w slideup-a">Established in 2006, CEG | Codes Engineering operates across a diverse range of construction sectors, such as high-spec residential, hospitality, education, commercial fit-out, infrastructure and the fast-paced retail sector.</p>
 						<div className="sm-space"></div>
-						<a href="#" className="btn btn-primary slideup-a">Read More</a>
+						<a href="/" className="btn btn-primary slideup-a">Read More</a>
 					</div>
 				</section>
 			</div>
@@ -159,7 +159,7 @@ export default function Home() {
 										<p>Delivery of support services and total/integrated facilities management, including bespoke solutions.</p>
 									</div>											 	
 								</div>	
-								<a href="#" className="btn btn-primary" data-scroll data-scroll-speed="2">Contact US</a>				 						
+								<a href="/" className="btn btn-primary" data-scroll data-scroll-speed="2">Contact US</a>				 						
 							</div>
 							<div className="w-40-right">
 								<div className="o-media-wrapper">
@@ -180,7 +180,7 @@ export default function Home() {
 							<input type="number" placeholder="Phone Number" className="f-field" />						
 						</div>					
 					</div>				
-					<a href="#" className="submit slideup">
+					<a href="/" className="submit slideup">
 						<i className="mdi mdi-arrow-right"></i>
 					</a>
 				</section>
@@ -196,9 +196,9 @@ export default function Home() {
 						<div className="sm-space"></div>
 						<p className="light-theme slideup"><span className="f-color">CODES Construction LLC</span> <br />Sheikh Zayed RoodAl Makateb Building,<br /> Suite 110 P.O.Box: 888185, Dubai, UAE</p>
 						<div className="social-media">
-							<a href="#" className="slideup"><i className="mdi mdi-facebook"></i></a>
-							<a href="#" className="slideup"><i className="mdi mdi-instagram"></i></a>
-							<a href="#" className="slideup"><i className="mdi mdi-twitter"></i></a>
+							<a href="/" className="slideup"><i className="mdi mdi-facebook"></i></a>
+							<a href="/" className="slideup"><i className="mdi mdi-instagram"></i></a>
+							<a href="/" className="slideup"><i className="mdi mdi-twitter"></i></a>
 						</div>
 					</div> 
 				</section>
