@@ -9,11 +9,11 @@ export default function Home() {
 		  <meta charSet="utf-8" />
 		  <title>CEG - Dubai</title>
 		  {/* <link rel="canonical" href="http://mysite.com/example" /> */}
-		  <script src={withPrefix('../../js/jquery-2.2.3.min.js')} type="text/javascript" />
+		  {/* <script src={withPrefix('../../js/jquery-2.2.3.min.js')} type="text/javascript" />
 		  <script src={withPrefix('../../js/plugins.js')} type="text/javascript" />
 		  <script src={withPrefix('../../js/scroll-trigger.js')} type="text/javascript" />
-		  <script src={withPrefix('../../js/locomotive-scroll.min.js')} type="text/javascript" />
-		  <script src={withPrefix('../../js/app.js')} type="text/javascript" />
+		  <script src={withPrefix('../../js/locomotive-scroll.min.js')} type="text/javascript" />*/}
+		  <script src={withPrefix('../../js/app.js')} type="text/javascript" /> 
 	  </Helmet>
 	  <Layout>
 			  <div data-scroll-section>
@@ -53,6 +53,7 @@ export default function Home() {
 						  <p className="p-w slideup-a">We are a Responsible safe working contractor with a Focused commitment to building a strong company. A Trusted brand, backed by a history of 13 years, providing Smart, innovative and inspiring solutions, Passionate about every project we deliver. Our annual turnover is more than AED200 million.</p>
 						  <p className="p-w slideup-a">Established in 2006, CEG | Codes Engineering operates across a diverse range of construction sectors, such as high-spec residential, hospitality, education, commercial fit-out, infrastructure and the fast-paced retail sector.</p>
 						  <div className="sm-space"></div>
+						  {/* <Link to="/about" className="btn btn-primary slideup-a">Read More</Link> */}
 						  <a href="/" className="btn btn-primary slideup-a">Read More</a>
 					  </div>
 				  </section>
